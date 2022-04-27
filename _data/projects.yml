@@ -25,8 +25,8 @@
   
 - name: High Teir Miners
   descr: "You can also set a project without demo link and no tags"
-  demo: example
+  demo: https://example.com/
   
   - name: Ultra Teir Miners
   descr: "You can also set a project without demo link and no tags"
-  demo: example
+  demo: https://example.com/
