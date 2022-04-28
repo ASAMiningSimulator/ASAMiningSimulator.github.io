@@ -23,20 +23,22 @@
   subtitle: SIM minted to Algorands Main net
   timeline-side: right
 
-- title: LP Pool Creation
+- title: LP Pool
   title-url: https://app.tinyman.org/#/swap?asset_in=0&asset_out=655120757
   date: March 19, 2022
+  subtitle: Tinyman LP pool created
   timeline-side: right
 
 - title: Website Launch
   title-url: https://asaminingsimulator.github.io/
   date: April 27, 2022
+  subtitle: ASA Mining Simulator&#x00027s website launches  
   timeline-side: right
 
 - title: NFT Mint
   title-url: https://example.com/
   date: TBT
-  subtitle: First SIM mining NFTs are minted
+  subtitle: First SIM Mining Rig NFTs are minted
   timeline-side: left
 
 - title: Partners
