@@ -15,19 +15,19 @@
 
 
 - name: Low Teir Miners
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: "These Mining Rigs will get you started in ASA mining simulaton. You can expect low hash rate from Low Teir Miners as well as sub optimal rewards. Luckily they are very cost efficient! Low Teir Mining Rigs are purchased with Algo"
   demo: https://example.com/
   
 - name: Medium Teir Miners
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: "These Mining Rigs are a small step up and have low to medium hash rates as well as rewards depending on the Rig. Like the Low Teir Mining Rigs they will be purchased with Algo to start out"
   demo: https://example.com/
  
   
 - name: High Teir Miners
-  descr: "You can also set a project without demo link and no tags"
+  descr: "These Mining Rigs are not available at this time, and can only be purchased with SIM or one of our Partners ASA&#x00027s. They will have excellent hashrates and rewards to match"
   demo: https://example.com/
   
 - name: Ultra Teir Miners
-  descr: "You can also set a project without demo link and no tags"
+  descr: "These Mining Rigs are not available at this time. Ultra Teir Miners are the best Rigs and will have by far the highest hashrate and most possible rewards. They will only be able to purchase with SIM and one of our Partners ASA&#x00027s"
   demo: https://example.com/
  
