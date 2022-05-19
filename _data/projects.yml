@@ -16,7 +16,7 @@
 
 - name: Low Teir Miners
   descr: "These Mining Rigs will get you started in ASA mining simulaton. You can expect low hash rate from Low Teir Miners as well as sub optimal rewards. Luckily they are very cost efficient! Low Teir Mining Rigs are purchased with Algo"
-  demo: https://example.com/
+  demo: https://www.nftexplorer.app/sellers?creator=RNWJYGK7G5OOKOFKRMMLX5ZJ4C26BXGFOWWNMAZG7QZV4EAQVWYB5VMHII
   
 - name: Medium Teir Miners
   descr: "These Mining Rigs are a small step up and have low to medium hash rates as well as rewards depending on the Rig. Like the Low Teir Mining Rigs they will be purchased with Algo to start out"
