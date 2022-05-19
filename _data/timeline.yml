@@ -35,14 +35,39 @@
   subtitle: ASA Mining Simulator&#x00027s website launches  
   timeline-side: right
 
-- title: NFT Mint
-  title-url: https://example.com/
-  date: TBT
+- title: Low Teir Miner NFT Mint
+  title-url: https://asaminingsimulator.github.io/
+  date: May 19, 2022
   subtitle: First SIM Mining Rig NFTs are minted
+  timeline-side: right
+  
+  - title: Medium Teir Miner NFT Mint
+  title-url: https://asaminingsimulator.github.io/
+  date: May 26, 2022
+  subtitle: First Medium Teir SIM Mining Rig NFTs will be minted
+  timeline-side: left
+  
+  - title: High Teir Miner NFT Mint
+  title-url: https://asaminingsimulator.github.io/
+  date: June 2, 2022
+  subtitle: First High Teir SIM Mining Rig NFTs will be minted
+  timeline-side: left
+  
+  
+  - title: Ultra Teir Miner NFT Mint
+  title-url: https://asaminingsimulator.github.io/
+  date: June 9, 2022
+  subtitle: First Ultra Teir SIM Mining Rig NFTs will be minted
+  timeline-side: left
+  
+  - title: Partners
+  title-url: https://asaminingsimulator.github.io/
+  date: TBT
+  subtitle: Create Partner ASA Mining Rigs
   timeline-side: left
 
-- title: Partners
-  title-url: https://example.com/
+- title: Updates on Full game release 
+  title-url: https://asaminingsimulator.github.io/
   date: TBT
-  subtitle: Create Partner ASA Mining Rig
+  subtitle: Show work on game updates, plan for full release.
   timeline-side: left
