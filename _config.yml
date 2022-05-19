@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About The Simulation
 # about_me_description: This will be displayed under the title.
-about_me_description: ASA Mining Simulator is an NFT based idle game build on Algorand inspired by Rollercoin. >- Purchasing and holding Miners rewards the holder with varying amounts of SIM &#x00028ID 655120757&#x00029, and other ASA&#x00027s outlined in the Miners decription. The amount of SIM and other AS  
+about_me_description: ASA Mining Simulator is an NFT based idle game build on Algorand inspired by Rollercoin. >- As we work on building the UI for the full game, Miners will automaticlly send SIM rewards to your wallet every Friday, and act as NFT Staking. Half the ALGO from purchasing Miners will be put directly into LP. Purchasing and holding Miners rewards the holder with varying amounts of SIM &#x00028ID 655120757&#x00029, and other ASA&#x00027s outlined in the Miners decription.   
 
 # SKILLS SECTION
 # show_skills_card:
