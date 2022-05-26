@@ -17,15 +17,9 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Creation
-  title-url: https://algoexplorer.io/tx/WHGVCJQNXSKQTF7NU3UFFJBOVKSPLVXYUWONGRZRTUA5XLRYIRKQ
-  date: March 13, 2022
-  subtitle: SIM minted to Algorands Main net
-  timeline-side: right
-
 - title: Website Launch
   title-url: https://asaminingsimulator.github.io/
-  date: April 27, 2022
+  date: May 7th, 2022
   subtitle: ASA Mining Simulator website launch 
   timeline-side: right
 
